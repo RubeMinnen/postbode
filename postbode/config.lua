@@ -19,9 +19,6 @@ Config.DepositAmount = 1000
 Config.MaxActiveDrops = 1
 Config.MinActiveDrops = 1
 
--- Wachttijd tussen jobs in seconden
-Config.JobCooldown = 120
-
 
 Config.Depot = {
     npcModel = 's_m_m_postal_01',   -- model van de postbode NPC
@@ -96,3 +93,4 @@ Config.TrunkOffset = vec3(0.0, -2.5, 0.0)
 
 -- World markers aan/uit (grondblips/markers)
 Config.ShowWorldMarkers = true
+
