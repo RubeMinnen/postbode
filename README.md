@@ -31,7 +31,7 @@ Config.JobCooldown = 10
 - Dit staat in seconden.
 - Spelers moeten deze tijd wachten voordat ze opnieuw een job kunnen starten.
 - Dit voorkomt dat mensen constant snel achter elkaar jobs doen.
-- (de cooldown is er op het moment uit gehaald dit komt door dat het voertuig juist weg gaat)
+- (de cooldown is er op het moment uit gehaald dit komt door dat het voertuig juist weg gaan)
 
 Depot / NPC instellingen
 config.depot = {
