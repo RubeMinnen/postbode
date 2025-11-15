@@ -1,5 +1,3 @@
-
-
 1. config.lua
 
 Dit bestand bevat alle instellingen die je kunt aanpassen, zoals het bedrag dat spelers krijgen na een levering of de afstandsbonus. Hiermee kun je het script eenvoudig balanceren of thematisch aanpassen.
@@ -161,5 +159,4 @@ Laat een marker zien aan de achterkant van de wagen. Zodra je dichtbij genoeg be
 Stap 3 – Pakket afleveren:
 Als je bij de deur bent, verschijnt “[E] – Pakket afleveren]”. Een korte animatie en een progressbar van 5 seconden volgen. Daarna wordt de levering geregistreerd en ontvang je betaling. De speler gaat automatisch verder naar het volgende punt of terug naar het depot bij de laatste levering.
 
-
-
+Deze script is gemaakt door Rube Minnen je mag dit script gebruiken maar niet voor commerciële gebruik behalve hier met mij is over gesproken 
